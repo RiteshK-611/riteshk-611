@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hey, Nice to see you!
 
 <!--
 **RiteshK-611/riteshk-611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🚀 Languages & Technologies
 
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -63,4 +65,19 @@ Here are some ideas to get you started:
 <!-- ### Other -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
+</div>
+
+### 📈 My Github Stats 
+<div align="center">
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshk-611&langs_count=8&theme=react&bg_color=0d1117&layout=compact&hide_border=true)
+
+</div>
+
+<div align=center>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshk-611&show_icons=true&count_private=true&theme=react&bg_color=0d1117&layout=compact&hide_border=true)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=riteshk-611&theme=react&background=0d1117&layout=compact&hide_border=true)
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=riteshk-611&theme=react-dark&hide_border=true)
+
 </div>
