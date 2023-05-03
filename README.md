@@ -78,8 +78,8 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshk-611&show_icons=true&count_private=true&theme=react&bg_color=0d1117&layout=compact&hide_border=true)
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=riteshk-611&theme=react&background=0d1117&layout=compact&hide_border=true)
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=riteshk-611&theme=react-dark&hide_border=true)
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshk-611&show_icons=true&count_private=true&theme=react&bg_color=0d1117&layout=compact&hide_border=true)
+![Ritesh's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=riteshk-611&theme=react&background=0d1117&layout=compact&hide_border=true)
+![Ritesh's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riteshk-611&theme=react-dark&hide_border=true)
 
 </div>
