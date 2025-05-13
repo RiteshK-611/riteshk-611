@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning new AI tech
 - 👯 I’m looking to collaborate on MERN or Javascript, React projects
 - 📫 How to reach me: riteshkokam@gmail.com
 - 😄 Pronouns: He/Him
